@@ -18,7 +18,7 @@ Fundamentos de backend creando una API REST usando el runtime [Node.js](https://
 
 ---
 
-### Enlaces importantes
+### Enlaces importantes:
 - [Canal de YouTube](https://youtube.com/playlist?list=PL0phRVSA2OBhlBMcs1OkKws39FnqhAgKV) Playlist con las clases
 - [Facebook](https://www.facebook.com/DWESCOM) Cuenta de Facebook del Club de Desarrollo Web de ESCOM
 
