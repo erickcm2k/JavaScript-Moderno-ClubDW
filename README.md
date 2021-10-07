@@ -4,12 +4,16 @@ En este repositorios se encuentra el código de las sesiones del curso que de Ja
 
 ##### Abarcamos las siguientes secciones:
 - **Fundamentos del lenguaje** 
+
 Abarcamos los conceptos básicos (pero claves), que todo desarrollador JavaScript debe dominar, tales como typecasting, truthy y falsy values, tipos de datos, mutabilidad e inmutabilidad, valores y referencias, estructuras de datos, entre otros.
 - **JavaScript Moderno** 
+
 se  nuevas características agregadas en ECMASCRIPT 6 y una comparación con lo que se hacía en antiguas versiones del lenguaje.
 - **JavaScript en el navegador**    
+
 Manipulación del DOM, JavaScript asíncrono, consumo de API REST de terceros y desarrollo de sitios web interactivos.
 - **JavaScript en el servidor**    
+
 Fundamentos de backend creando una API REST usando el runtime [Node.js](https://nodejs.org/) junto con la librería [Express](https://expressjs.com/es/) y comunicación con bases de datos.
 
 ### Enlaces importantes
