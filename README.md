@@ -16,6 +16,8 @@ Manipulación del DOM, JavaScript asíncrono, consumo de API REST de terceros y 
 
 Fundamentos de backend creando una API REST usando el runtime [Node.js](https://nodejs.org/) junto con la librería [Express](https://expressjs.com/es/) y comunicación con bases de datos.
 
+---
+
 #### Enlaces importantes
 - [Canal de YouTube](https://youtube.com/playlist?list=PL0phRVSA2OBhlBMcs1OkKws39FnqhAgKV) Playlist con las clases
 - [Facebook](https://www.facebook.com/DWESCOM) Cuenta de Facebook del Club de Desarrollo Web de ESCOM
