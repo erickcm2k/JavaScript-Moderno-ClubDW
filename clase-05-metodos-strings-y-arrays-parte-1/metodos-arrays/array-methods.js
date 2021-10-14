@@ -17,9 +17,9 @@ const nombres = ["Luis", "José", "John", "Aaron", "Fernando"]
 //      saludar(nombre)
 //     });
 
-// const saludar = (nombre, indice, arreglo) => {
-//     console.log(`Hola, mi nombre es: ${nombre} y mi índice es ${indice}`);
-// }
+const saludar = (nombre, indice, arreglo) => {
+    console.log(`Hola, mi nombre es: ${nombre} y mi índice es ${indice}`);
+}
 
 // nombres.forEach(saludar);
 

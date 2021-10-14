@@ -1,0 +1,17 @@
+{
+  "name": "liberias-terceros",
+  "version": "1.0.0",
+  "description": "Estamos probando librerías de terceros",
+  "main": "app.js",
+  "scripts": {
+    "ejecutar": "node app.js"
+  },
+  "author": "Erick",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
